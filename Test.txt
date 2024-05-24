@@ -1,0 +1,73 @@
+20-24  ganga
+
+
+3-7 raj
+
+
+10-14 Bharat
+
+
+
+
+Microsoft o365 v--1.4.0
+
+App ID--
+
+Tenant ID--
+
+App Secret---
+
+
+under services----calendar,mail,files,groups,shared
+
+auth type----
+
+
+get mail
+forward 
+move
+send
+
+
+2hrincident---service-- cr
+
+
+APPLICATIONS:-
+
+Bank office
+tsys
+vpm
+
+
+excel-- related
+outlook-- related
+pdf , text, Csv---related
+
+
+jira------
+GitLab-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
